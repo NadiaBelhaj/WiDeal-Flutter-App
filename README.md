@@ -3,4 +3,4 @@ WiDeal is an online barter application based on mutual aid between individuals. 
 
 Demo: https://youtu.be/mUbE6NpL24Y
 
-Back-End Link:
+Back-End Link: https://github.com/NadiaBelhaj/-WiDeal-Flutter-App-Back-end
